@@ -1,0 +1,3 @@
+https://vitejs.dev/guide/#scaffolding-your-first-vite-project - To setup reactjs project from the scratch
+
+https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
