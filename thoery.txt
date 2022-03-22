@@ -127,14 +127,13 @@ constructor - A special function that will get called whenever
       --------------------
       1. We have to call special function 'super' , this will call the 
          base class constructor 
-         In our component we have access to this.props only after 
-         we initially called super passing the props 
+
       2. This is the only place where we change or set the state directly 
          overwriting this.state fields 
 
 static getDerivedStateFromProps
 ----------------------------------
-Method is called every time a component is re-rendered
+This method is called every time a component is re-rendered
 
 -> we can set the state 
 -> Never use this method for Ajax / HTTP Calls

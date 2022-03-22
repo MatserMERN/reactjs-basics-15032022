@@ -1,3 +1,11 @@
 https://vitejs.dev/guide/#scaffolding-your-first-vite-project - To setup reactjs project from the scratch
 
 https://github.com/dsznajder/vscode-react-javascript-snippets/blob/HEAD/docs/Snippets.md
+
+https://tailwindcss.com/docs/installation - CSS Framework
+
+https://mui.com/ - The React UI library
+
+List of Fake API Websites
+--------------------------
+https://fakestoreapi.com/products

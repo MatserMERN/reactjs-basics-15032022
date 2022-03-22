@@ -1,0 +1,2 @@
+1) duplicate elements deosn't compain about key, why ?
+2) why this value is not undefined in render method()
