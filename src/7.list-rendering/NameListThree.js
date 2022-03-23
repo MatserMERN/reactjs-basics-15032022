@@ -45,7 +45,7 @@ function NameListThree() {
         </ul>
     ))
   return (
-      <div>
+      <div className="container">
           {nameList}
       </div>
   )

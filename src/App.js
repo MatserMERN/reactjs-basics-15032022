@@ -8,8 +8,16 @@
 import LifeCycleA from './10.life-cycle-methods/LifeCycleA';
 import PostAPI from './11.api-calls/PostAPI';
 import PostAPIOne from './11.api-calls/PostAPIOne';
+import StudentSQLAPI from './11.api-calls/StudentSQLAPI';
 import UserAPI from './11.api-calls/UserAPI';
 import WebAPI from './11.api-calls/WebAPI';
+import Routing from './12.routing/Routing';
+import ApiHook from './13.hooks/ApiHook';
+import ClassCounter from './13.hooks/ClassCounter';
+import FunctionCounter from './13.hooks/FunctionCounter';
+import ObjectHook from './13.hooks/ObjectHook';
+import RefHook from './13.hooks/RefHook';
+import StringHook from './13.hooks/StringHook';
 import Welcome from './3.props/Welcome';
 import WelcomeOne from './3.props/WelcomeOne';
 import Counter from './4.state/Counter';
@@ -40,7 +48,15 @@ import FormDataOne from './9.form-handling/FormDataOne';
 function App() {
   return (
     <div className="App">
-      <WebAPI />
+      <RefHook />
+      {/* <ApiHook /> */}
+      {/* <ObjectHook /> */}
+      {/* <StringHook /> */}
+      {/* <FunctionCounter /> */}
+      {/* <ClassCounter /> */}
+      {/* <Routing /> */}
+      {/* <StudentSQLAPI /> */}
+      {/* <WebAPI /> */}
       {/* <UserAPI /> */}
       {/* <PostAPIOne /> */}
       {/* <PostAPI /> */}
